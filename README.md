@@ -22,3 +22,9 @@ The goal is to explore key **workforce insights** and answer 15 analytical quest
 - Visualize **hiring trends** and identify countries with the highest employee concentration.
 
 ---
+<p align="center">
+  <img src="Screenshot 2568-10-09 at 23.11.18.png" width="600">
+</p>
+<p align="center">
+  <img src="Screenshot 2568-10-09 at 23.11.36.png" width="600">
+</p>
