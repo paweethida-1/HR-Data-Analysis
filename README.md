@@ -5,6 +5,11 @@ It includes data on **demographics, departments, job titles, salaries, performan
 
 The goal is to explore key **workforce insights** and answer 15 analytical questions using **Python (Pandas, Matplotlib, SciPy)** — ranging from attrition and salary trends to performance correlations.
 
+
+## 📓 Included Notebook
+
+- [**Analyse HR Data.ipynb**](https://github.com/paweethida-1/HR-Data-Analysis/blob/main/%20Analyse%20HR%20Data.ipynb) — Full exploratory analysis answering all 15 HR questions (data cleaning, visualization, and insights in Python).
+
 ---
 
 ## 🎯 Objectives
